@@ -11,7 +11,6 @@
 
 - ❓ Ask me about anything related to NEM stack and related technologies
 
-- 👨‍💻 All of my projects are available at [https://ejajkhan613.github.io]
   
 
 <br/>  
@@ -47,6 +46,11 @@
 
 ## Connect with me  
 <div align="center">
+  <a href="https://ejajkhan613.github.io/" target="text-decoration:none">
+   <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
+</p>
+  
 <a href="https://linkedin.com/in/ejajul-ansari" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
