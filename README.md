@@ -11,7 +11,7 @@
 
 - ❓ Ask me about anything related to NEM stack and related technologies
 
-- 👨‍💻 All of my projects are available at https://ejajkhan613.github.io
+- 👨‍💻 All of my projects are available at [https://ejajkhan613.github.io]
   
 
 <br/>  
