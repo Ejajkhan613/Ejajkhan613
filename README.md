@@ -10,7 +10,7 @@
 - 🔭 I’m currently learning Backend NEM  
   
 
-- ❓ Ask me about anything related to NEM stack and related technologies
+- ❓ Ask me about NEM stack and related technologies
 
   
 
