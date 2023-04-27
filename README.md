@@ -62,6 +62,9 @@
 <a href="https://github.com/Ejajkhan613" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:ejajul.masai@gmail.com" target="_blank">
+<img src=https://camo.githubusercontent.com/60c68cea0fb50cdc6ab364567d4e9c14d412a493231fcdd955700c126dd77b0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d6436323832383f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/ejajkhan613" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
