@@ -18,7 +18,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -30,7 +30,7 @@
   <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px"  src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" height="75" /></a> 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
