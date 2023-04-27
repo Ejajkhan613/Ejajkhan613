@@ -18,7 +18,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -27,37 +27,35 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px"  src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" height="75" /></a> 
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="75" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
 ### Backend  
 <div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" width="75" /></a>  
-  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="Node.js" height="75" width="75" /></a> 
-  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" width="75px" /></a>
-  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="75" width="75" /></a>
-  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px"  src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="TypeScript" height="75" width="75" /></a>
-
-<a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px"  src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="NodeJS" height="75" width="75" /></a>
-  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" height="75" /></a>  
 <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px"  src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="NPM" width="75" height="75" /></a>
-  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px"  src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="75" height="75" /></a>
-  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/95a0d0dfd4854f5b873e2c5396064ab18a9e7b2ed7d7c5df1cf6197d6cd8eb29/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6c6f676f2d6d7973716c2d706e672f6c6f676f2d6d7973716c2d6d7973716c2d6c6f676f2d706e672d696d616765732d6172652d646f776e6c6f61642d6372617a79706e672d32312e706e67" alt="MySQL" height="75" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="75" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
 <a href="https://postman.com/" target="_blank"><img style="margin: 10px"  src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Postman" height="75" width="75px" /></a>
 </div>
 
 </td></tr></table>  
 
-<br/>  
+<br/>
 
 
 ## Connect with me  
@@ -89,9 +87,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ejajkhan613&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ejajkhan613&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejajkhan613&hide_border=true&layout=compact" align="center" style="width: 50%" />
+</div>
+  <br/>  
 
 
 <br/>  
