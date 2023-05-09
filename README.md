@@ -4,7 +4,9 @@
   
  
 
-  ### <div align="center">I'm Ejajul Ansari, an Aspiring Full Stack Web Developer 🚀</div>  
+  ### <div align="center">I'm Ejajul Ansari, an Aspiring Full Stack Web Developer 🚀</div> 
+  
+  ### <div>An ambitious Backend Developer with good knowledge of HTML, CSS, JavaScript, NodeJS,Express and MongoDB. Having problem-solving mindset and the ability to perform well in collaboration and individually, look forward to working as an accountable and competent employee in an exciting Tech company.</div>
   
 
 - 🔭 I’m currently learning Backend NEM  
