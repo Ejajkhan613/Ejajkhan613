@@ -73,6 +73,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ejajkhan613&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejajkhan613&hide_border=true&layout=compact" align="center" style="width: 50%" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ejajkhan613" alt="Ejajul Ansari" /></p>
 </div>
 <br/>  
 <br/>  
