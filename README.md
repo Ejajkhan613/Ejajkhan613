@@ -55,16 +55,33 @@
 </p>
   
 <a href="https://linkedin.com/in/ejajul-ansari" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://github.com/Ejajkhan613" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-<a href="https://x.com/ejajkhan613" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://www.leetcode.com/user3275nw" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-%23000000?&style=for-the-badge">
+</a>
+
+<a href="https://stackoverflow.com/users/30469624/ejajul-ansari" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Stack%20Overflow-%23F47F24?&style=for-the-badge">
+</a>
+
+<a href="https://instagram.com/ejajkhan613" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23ee2a7b?&style=for-the-badge">
+</a>
+
+<a href="https://x.com/ejajkhan613" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
 <a href="https://www.youtube.com/@Official_Vlogger" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+  <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
+
 </div>  
 
 <br/>  
