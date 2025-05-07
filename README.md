@@ -2,11 +2,11 @@
 <img src="https://user-images.githubusercontent.com/112761880/234756600-543b28b4-4aff-49a9-8b89-57a2a1dd2469.gif" align="center" style="width: 100%;height:300px" />
 </div>  
 
-### <div align="center">I'm Ejajul Ansari, a Node.js Backend Developer at Unifie LLP 🚀</div> 
+### <div align="center">I'm Ejajul Ansari, a Full Stack Web Developer, formerly at Unifie Entertainment Technology LLP and Ametheus Holdings Pvt. Ltd., now open to new opportunities. 🚀</div> 
   
-### <div>I am a dedicated Backend Developer with expertise in HTML, CSS, JavaScript, Node.js, Express, and MongoDB. I thrive on solving problems, both independently and collaboratively. Currently, I am contributing to the tech excellence at Unifie LLP and I am eager to continue making impactful contributions.</div>
+### <div>I was responsible for building backend systems from the ground up, while also leading technical teams and managing full project lifecycles. As IT Head, I handled team coordination, project execution, and client communication. I'm a dedicated Full Stack Developer with strong expertise in Node.js and related backend technologies, as well as hands-on experience with frontend frameworks like React.js and Next.js.</div>
 
-- 🔭 I’m currently learning Backend NEM  
+- 🔭 I’m currently learning Backend NEM
 
 - ❓ Ask me about NEM stack and related technologies
 
@@ -17,7 +17,7 @@
 
 ### Frontend
 <div align="center">
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="75" height="75" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="75" height="75" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" width="75" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" width="75" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" width="75" /></a>  
