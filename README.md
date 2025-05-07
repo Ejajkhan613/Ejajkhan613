@@ -96,6 +96,8 @@
 <br/>  
 <hr>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejajkhan613" alt="ejajkhan613" /></a> </p>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Ejajkhan613&&style=flat-square" align="center" />
 </div>  
