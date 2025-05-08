@@ -2,13 +2,11 @@
 <img src="https://user-images.githubusercontent.com/112761880/234756600-543b28b4-4aff-49a9-8b89-57a2a1dd2469.gif" align="center" style="width: 100%;height:300px" />
 </div>  
 
-### <div align="center">I'm Ejajul Ansari, a Full Stack Web Developer, formerly at Unifie Entertainment Technology LLP and Ametheus Holdings Pvt. Ltd., now open to new opportunities. 🚀</div> 
+### <div align="center">I'm Ejajul Ansari, a Full Stack Web Developer with 2 years of hands-on experience, formerly at Unifie Entertainment Technology LLP X Ametheus Holdings Pvt. Ltd., now open to new opportunities. 🚀</div> 
   
 ### <div>I was responsible for building backend systems from the ground up, while also leading technical teams and managing full project lifecycles. As IT Head, I handled team coordination, project execution, and client communication. I'm a dedicated Full Stack Developer with strong expertise in Node.js and related backend technologies, as well as hands-on experience with frontend frameworks like React.js and Next.js.</div>
 
-- 🔭 I’m currently learning Backend NEM
-
-- ❓ Ask me about NEM stack and related technologies
+- 🔭 Connect with me on <a href='mailto:ejajul.masai@gmail.com'>Mail</a>
 
 <br/>
 
