@@ -1,48 +1,135 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/112761880/234756600-543b28b4-4aff-49a9-8b89-57a2a1dd2469.gif" align="center" style="width: 100%;height:300px" />
-</div>  
+  <img src="https://user-images.githubusercontent.com/112761880/234756600-543b28b4-4aff-49a9-8b89-57a2a1dd2469.gif" 
+       style="width:100%; max-height:300px; object-fit:cover;" />
+</div>
 
-### <div align="center">I'm Ejajul Ansari, I build scalable backend systems with AI integration, Cloud Computing Expert, Predictive Analytics using IBM SPSS Modeler. Currently working as IBM Trainer in the branch of IBM Career Education.</div> 
-  
-### <div>I was responsible for building backend systems from the ground up, while also leading technical teams and managing full project lifecycles. As IT Head, I handled team coordination, project execution, and client communication. I'm a dedicated Full Stack Developer with strong expertise in Node.js and related backend technologies, as well as hands-on experience with frontend frameworks like React.js and Next.js.</div>
+<h2 align="center">Hi 👋, I'm Ejajul Ansari</h2>
 
-- 🔭 Connect with me on <a href='mailto:ejajul.masai@gmail.com'>Mail</a>
+<h3 align="center">
+  🚀 Backend Engineer | ☁️ Cloud Computing | 🤖 AI Integration  
+</h3>
+
+<p align="center">
+  I design and build <b>scalable backend systems</b> with a strong focus on 
+  <b>performance, reliability, and AI-driven solutions</b>.  
+  <br/><br/>
+  Currently working as an <b>IBM Trainer</b> at <b>IBM Career Education</b>, 
+  specializing in <b>Predictive Analytics using IBM SPSS Modeler</b>.
+</p>
+
+---
+
+### 💼 Professional Summary
+
+<p>
+I’ve built backend systems from the ground up, led technical teams, and managed full project lifecycles.  
+As an <b>IT Head</b>, I handled <b>team coordination, project execution, and client communication</b> end-to-end.
+</p>
+
+<p>
+I’m a <b>Full Stack Developer</b> with strong expertise in <b>Node.js</b> and backend architecture, 
+along with hands-on experience in modern frontend frameworks like <b>React.js</b> and <b>Next.js</b>.
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:ejajul.masai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ejajul.masai%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 <br/>
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
 
-### Frontend
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img  src="https://ejajkhan613.github.io/photos/html.svg" alt="HTML5" height="75" width="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/css.svg" alt="CSS3" width="75" height="75" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/javascript.svg" alt="JavaScript" height="75" width="75" /></a>  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://ejajkhan613.github.io/photos/react.svg" alt="react" width="75" height="75"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://ejajkhan613.github.io/photos/nextjs.png" alt="nextjs" width="75" height="75"/> </a>
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/chartjs.svg" alt="Chart.js" height="75" width="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/github.png" alt="Git" height="75" width="75" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/figma.svg" alt="Figma" height="75" width="75" /></a>
-</div>
-</td>
 
-<td valign="top" width="33%">
+  <!-- Frontend -->
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Frontend</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://www.chartjs.org/media/logo-title.svg"/></td>
+    </tr>
+    <tr>
+      <td align="center">HTML5</td>
+      <td align="center">CSS3</td>
+      <td align="center">JavaScript</td>
+      <td align="center">React</td>
+      <td align="center">Next.js</td>
+      <td align="center">Tailwind CSS</td>
+      <td align="center">Chart.js</td>
+    </tr>
+  </table>
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/javascript.svg" alt="JavaScript" height="75" width="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/nodejs.svg" alt="Node.js" height="75" width="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/express.png" alt="Express.js" height="75" width="75" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/mongodb.svg" alt="MongoDB" height="75" width="75" /></a>  
-<a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/mongoose.png" alt="MongoDB" height="75" width="75" /></a>  
-<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/socketio.png" alt="MongoDB" height="75" width="75" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://ejajkhan613.github.io/photos/aws.jpg" alt="AWS" height="75" width="75" /></a>  
-<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px"  src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="NPM" width="75" width="75" height="75" /></a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://ejajkhan613.github.io/photos/jest.png" alt="jest" width="75" height="75"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a>
+  <!-- Backend -->
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Backend</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/></td>
+    </tr>
+    <tr>
+      <td align="center">Node.js</td>
+      <td align="center">Express.js</td>
+      <td align="center">MongoDB</td>
+      <td align="center">MySQL</td>
+      <td align="center">PostgreSQL</td>
+      <td align="center">Kafka</td>
+      <td align="center">RabbitMQ</td>
+    </tr>
+  </table>
+
+  <!-- Tools -->
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Tools & Technologies</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></td>
+    </tr>
+    <tr>
+      <td align="center">Docker</td>
+      <td align="center">Git</td>
+      <td align="center">Postman</td>
+      <td align="center">Heroku</td>
+      <td align="center">Linux</td>
+      <td align="center">Python</td>
+      <td align="center">TypeScript</td>
+    </tr>
+  </table>
+
 </div>
-</td></tr></table>  
 
 <br/>
 
